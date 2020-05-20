@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="missing_pieces" label="Missing pieces" language="en" table="x_1234_puzzle_trac_puzzle">
+    <sys_documentation element="image" label="Image" language="en" table="x_1234_puzzle_trac_puzzle">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>missing_pieces</element>
+            <element>image</element>
             <help/>
             <hint/>
-            <label>Missing pieces</label>
+            <label>Image</label>
             <language>en</language>
             <name>x_1234_puzzle_trac_puzzle</name>
-            <plural>Missing pieces</plural>
+            <plural>Images</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-05-20 19:40:09</sys_created_on>
-            <sys_id>6cbe3417adb450107f44a06ee22b690e</sys_id>
+            <sys_created_on>2020-05-20 20:48:33</sys_created_on>
+            <sys_id>162e78d3adb450107f44a06ee22b6935</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Missing pieces</sys_name>
+            <sys_name>Image</sys_name>
             <sys_package display_value="Puzzle Tracker" source="x_1234_puzzle_trac">68d8e4d7ad7450107f44a06ee22b698b</sys_package>
             <sys_policy/>
             <sys_scope display_value="Puzzle Tracker">68d8e4d7ad7450107f44a06ee22b698b</sys_scope>
-            <sys_update_name>sys_documentation_x_1234_puzzle_trac_puzzle_missing_pieces_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_1234_puzzle_trac_puzzle_image_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-05-20 19:40:09</sys_updated_on>
+            <sys_updated_on>2020-05-20 20:48:33</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
